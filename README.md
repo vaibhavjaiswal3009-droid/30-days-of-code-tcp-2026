@@ -11,6 +11,9 @@ Roll No.:- 25223101
 ### Day 1: [Title of Challenge]
 - **Date:** January 1, 2026
 - **Description:** Brief 1-sentence summary of what you built.
+- **Code Screenshot:**
+- ![Day 1 Screenshot](index.html)
+- ![Day 1 Screenshot](about.html)
 - **Output Screenshot:**
 ![Day 1 Screenshot](day1output.png)
 ![Day 1 Screenshot](day1output2.png)
