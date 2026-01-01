@@ -13,3 +13,4 @@ Roll No.:- 25223101
 - **Description:** Brief 1-sentence summary of what you built.
 - **Output Screenshot:**
 ![Day 1 Screenshot](day1output.png)
+![Day 1 Screenshot](day1output2.png)
