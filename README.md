@@ -8,8 +8,12 @@ Roll No.:- 25223101
 
 ## Daily Progress
 
-### Day 1: [Title of Challenge]
+### Day 1: [PORTFOLIO USING HTML ONLY]
 - **Date:** January 1, 2026
 - **Description:** Brief 1-sentence summary of what you built.
+- **Code Screenshot:**
+- ![Day 1 Screenshot](index.png)
+- ![Day 1 Screenshot](about.png)
 - **Output Screenshot:**
-![Day 1 Screenshot](link-to-your-image.png)
+![Day 1 Screenshot](day1output.png)
+![Day 1 Screenshot](day1output2.png)
