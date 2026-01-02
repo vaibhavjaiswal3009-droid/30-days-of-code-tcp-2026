@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>    
+</head>
+<body>
+    <h1>Event Schedule</h1>
+    <table border="2px" >
+        <thead>
+            <tr>
+            <th>Time </th>
+            <th>Activity</th>
+            <th>Venue</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10:00 AM</td>
+                <td> Registraion and Welcome</td>
+                <td>Main Hall</td>
+            </tr>
+            <tr>
+                <td>11:00 AM</td>
+                <td>Coding workshop</td>
+                <td>Lab 1</td>   
+            </tr>
+            <tr>
+                <td>12:00 PM</td>
+                <td>Lunch Break</td>
+                <td>Pie Chai</td>
+             </tr>
+            <tr>
+                <td>1:00 PM</td>
+                <td>AI Basics</td>
+                <td>Lab 2</td>
+            </tr>
+            <tr>
+                <td>2:00 PM</td>
+                <td>Robotics Demo</td>
+                <td>Lab 1</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <br>
+   <main>
+    <form action="registration" method="post">
+        <h1>Registraion Form</h1>
+         <label for="name">Enter your name: </label>
+            <input type="text" id="name" required>
+         
+         <br>
+         <label for="email">Enter your email id:</label>
+            <input type="email" id="email" required>
+         
+         <br>
+         <label for="num">Enter your number:</label>
+            <input type="number"  id="num" required>
+         
+         <br>
+         <label for="event_date">Choose your date</label>
+         <input type="date"  id="event_date" required>
+         <br>
+         <p>Select your ticket type</p>
+         <input type="radio" id="vip" name="ticket" value="vip" required>
+         <label for="vip">VIP</label>
+
+          <input type="radio" id="student" name="ticket" value="student">
+         <label for="student">Student</label>
+
+          <input type="radio" id="standard" name="ticket" value="standard">
+         <label for="standard">Standard</label>
+
+         <p>Select preferred workshop:</p>
+        <input type="checkbox" name="workshop" id="coding">
+        <label for="coding">Coding</label>
+
+         <input type="checkbox" name="workshop" id="ai">
+        <label for="ai">AI</label>
+
+         <input type="checkbox" name="workshop" id="robotics">
+        <label for="robotics">Robotics</label>
+
+        <p>
+              <label for="comments">Feedback</label><br>
+        <textarea name="comments" id="comments" rows="5" cols="20"></textarea>
+
+        </p>
+      <button type="submit">Register Now</button>
+    </form>
+ </main>    
+</body>
+</html>
