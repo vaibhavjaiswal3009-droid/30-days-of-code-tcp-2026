@@ -1,26 +1,11 @@
-# 30-days-of-code-tcp-2026
-Name:- Vaibhav Jaiswal
-Branch:- MCA
-Roll No.:- 25223101
+ # 30 Days of Code - TCP 2026 🚀
 
-<br>
----
+Welcome to my 30-day coding challenge! This repository tracks my daily progress as I build projects and master new web development skills.
 
-## Daily Progress
+ ## 📊 Progress Tracker
 
-### Day 1: [PORTFOLIO USING HTML ONLY]
-- **Date:** January 1, 2026
-- **Description:**  CREATED A PORTFOLIO USING ONLY HTML
-- **Code Screenshot:**
-- ![Day 1 Screenshot](index.png)
-- ![Day 1 Screenshot](about.png)
-- **Output Screenshot:**
-![Day 1 Screenshot](day1output.png)
-![Day 1 Screenshot](day1output2.png)
-
-### Day 2: [HTML TABLES AND BASIC FORM]
-- **Date:** January 2, 2026
-- **Description:**  CREATED A BASIC TABLE AND FORM USIGN ONLY HTML
- 
-![Day 2 Screenshot](day2output.png)
+| Day | Project Name | Tech Used | Preview | Link |
+|:---:|:--- |:--- |:---:|:---:|
+| 01 | Personal Portfolio | HTML, CSS | <img src="./DAY-01/day1output.png" width="100"> <img src="./DAY-01/day1output2.png" width="100"> | [View Folder](./DAY-01/) |
+| 02 | Event Landing Page | HTML, CSS | <img src="./DAY-02/day2output.png" width="100"> | [View Folder](./DAY-02/) |
  
