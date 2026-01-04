@@ -1,0 +1,135 @@
+  
+:root {
+    --primary: #2563eb;        
+    --accent: #eff6ff;         
+    --dark: #1e293b;           
+    --bg-main: #f8fafc;        
+    --white: #ffffff;
+    --transition: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-main);  
+    color: var(--dark);
+    line-height: 1.6;
+}
+
+ 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem 8%;
+    background: var(--white);
+    border-bottom: 1px solid #e2e8f0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--dark);
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.nav-links a:hover {
+    color: var(--primary);
+}
+
+ 
+.hero {
+    text-align: center;
+    padding: 120px 5%;
+     
+    background: linear-gradient(135deg, var(--accent) 0%, var(--white) 100%);
+}
+
+.hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    animation: slideUp 1s ease-out;  
+}
+
+@keyframes slideUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+ 
+#features {
+    background-color: var(--accent); 
+    padding: 80px 8%;
+}
+
+.features-grid {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+article {
+    flex: 1;
+    min-width: 280px;
+    background: var(--white);  
+    padding: 2.5rem;
+    border-radius: 12px;
+    text-align: center;
+    transition: var(--transition);
+}
+
+article:hover {
+    transform: scale(1.05);  
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);  
+}
+
+ 
+#pricing {
+    padding: 80px 8%;
+    background-color: var(--white);
+}
+
+.pricing-grid {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.price-card {
+    flex: 1;
+    min-width: 280px;
+    background: var(--bg-main);  
+    padding: 3rem 2rem;
+    border-radius: 12px;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.price-card:hover {
+    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    transform: translateY(-5px);
+}
+
+ 
+footer {
+    text-align: center;
+    padding: 60px 0;
+    background-color: var(--dark);  
+    color: var(--white);
+}
