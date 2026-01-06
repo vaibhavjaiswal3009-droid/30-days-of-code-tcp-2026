@@ -11,3 +11,4 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 03 | Portfolio Styling  | HTML, CSS| <img src="./DAY-03/output1.png" width="100"> <img src="./DAY-03/output2.png" width="100">|[View Folder](./DAY-03/)|
 | 04 | Product Landing Page  | HTML, CSS| <img src="./DAY-04/output1.png" width="100"> <img src="./DAY-04/output2.png" width="100">|[View Folder](./DAY-04/)|
 | 05 | Tic Tac Toe Game  | HTML, CSS, JS| <img src="./DAY-05/output1.png" width="100"> <img src="./DAY-05/output2.png" width="100">|[View Folder](./DAY-05/)|
+| 06 | Time Complexity | C++  | <img src="./DAY-06/output.png" width="100"> | [View Folder](./DAY-06/) |
