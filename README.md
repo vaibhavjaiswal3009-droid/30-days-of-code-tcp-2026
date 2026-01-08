@@ -13,3 +13,5 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 05 | Tic Tac Toe Game  | HTML, CSS, JS| <img src="./DAY-05/output1.png" width="100"> <img src="./DAY-05/output2.png" width="100">|[View Folder](./DAY-05/)|
 | 06 | Time Complexity | C++  | <img src="./DAY-06/output.png" width="100"> | [View Folder](./DAY-06/) |
 | 07 | Sum of Encrypted Integers | C++  | <img src="./DAY-07/output.png" width="100"> | [View Folder](./DAY-07/) |
+| 08 | Longest Consecutive Sequence | C++  | <img src="./DAY-08/output.png" width="100"> | [View Folder](./DAY-08/) |
+
