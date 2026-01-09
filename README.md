@@ -14,4 +14,6 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 06 | Time Complexity | C++  | <img src="./DAY-06/output.png" width="100"> | [View Folder](./DAY-06/) |
 | 07 | Sum of Encrypted Integers | C++  | <img src="./DAY-07/output.png" width="100"> | [View Folder](./DAY-07/) |
 | 08 | Longest Consecutive Sequence | C++  | <img src="./DAY-08/output.png" width="100"> | [View Folder](./DAY-08/) |
+| 09 | Largest Odd Number in String | C++  | <img src="./DAY-09/output.png" width="100"> | [View Folder](./DAY-09/) |
+
 
