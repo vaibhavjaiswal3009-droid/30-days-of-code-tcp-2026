@@ -18,6 +18,7 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 10 | Sorting 0s,1s and 2s | C++  | <img src="./DAY-10/output.png" width="100"> | [View Folder](./DAY-10/) |
 | 11 | Merge Sort | C++  | <img src="./DAY-11/output.png" width="100"> | [View Folder](./DAY-11/) |
 | 12 | Find the first and last position of element | C++  | <img src="./DAY-12/output.png" width="100"> | [View Folder](./DAY-12/) |
+| 13 | Koko Eating Bananas | C++  | <img src="./DAY-13/output.png" width="100"> | [View Folder](./DAY-13/) |
 
 
 
