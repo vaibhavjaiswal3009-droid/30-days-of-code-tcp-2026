@@ -20,6 +20,8 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 12 | Find the first and last position of element | C++  | <img src="./DAY-12/output.png" width="100"> | [View Folder](./DAY-12/) |
 | 13 | Koko Eating Bananas | C++  | <img src="./DAY-13/output.png" width="100"> | [View Folder](./DAY-13/) |
 | 14 | Count set bits | C++  | <img src="./DAY-14/output.png" width="100"> | [View Folder](./DAY-14/) |
+| 15 | Ugly number | C++  | <img src="./DAY-15/output.png" width="100"> | [View Folder](./DAY-15/) |
+
 
 
 
