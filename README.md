@@ -22,6 +22,7 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 14 | Count set bits | C++  | <img src="./DAY-14/output.png" width="100"> | [View Folder](./DAY-14/) |
 | 15 | Ugly number | C++  | <img src="./DAY-15/output.png" width="100"> | [View Folder](./DAY-15/) |
 | 16 | Candy | C++  | <img src="./DAY-16/output.png" width="100"> | [View Folder](./DAY-16/) |
+| 17 | Good number | C++  | <img src="./DAY-17/output.png" width="100"> | [View Folder](./DAY-17/) |
 
 
 
