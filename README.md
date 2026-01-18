@@ -23,6 +23,7 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 15 | Ugly number | C++  | <img src="./DAY-15/output.png" width="100"> | [View Folder](./DAY-15/) |
 | 16 | Candy | C++  | <img src="./DAY-16/output.png" width="100"> | [View Folder](./DAY-16/) |
 | 17 | Good number | C++  | <img src="./DAY-17/output.png" width="100"> | [View Folder](./DAY-17/) |
+| 18 | N-Queens| C++  | <img src="./DAY-18/output.png" width="100"> | [View Folder](./DAY-18/) |
 
 
 
