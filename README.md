@@ -25,6 +25,7 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 17 | Good number | C++  | <img src="./DAY-17/output.png" width="100"> | [View Folder](./DAY-17/) |
 | 18 | N-Queens| C++  | <img src="./DAY-18/output.png" width="100"> | [View Folder](./DAY-18/) |
 | 19 | Add 1 to a linked list number| C++  | <img src="./DAY-19/output.png" width="100"> | [View Folder](./DAY-19/) |
+| 19 | Odd even linked list| C++  | <img src="./DAY-20/output.png" width="100"> | [View Folder](./DAY-20/) |
 
 
 
