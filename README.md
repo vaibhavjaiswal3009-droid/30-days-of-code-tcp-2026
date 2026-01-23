@@ -28,5 +28,5 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 20 | Odd even linked list| C++  | <img src="./DAY-20/output.png" width="100"> | [View Folder](./DAY-20/) |
 | 21 | Next Greater Element| C++  | <img src="./DAY-21/output.png" width="100"> | [View Folder](./DAY-21/) |
 | 22 | C++ stl queue| C++  | <img src="./DAY-22/output.png" width="100"> | [View Folder](./DAY-22/) |
-
+| 23 | Sort Character by frequency| C++  | <img src="./DAY-23/output.png" width="100"> | [View Folder](./DAY-23/) |
 
