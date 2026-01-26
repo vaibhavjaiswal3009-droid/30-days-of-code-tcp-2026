@@ -31,3 +31,4 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 23 | Sort Character by frequency| C++  | <img src="./DAY-23/output.png" width="100"> | [View Folder](./DAY-23/) |
 | 24 | Basketball Together| C++  | <img src="./DAY-24/output.png" width="100"> | [View Folder](./DAY-24/) |
 | 25 | Tree Traversal| C++  | <img src="./DAY-25/output.png" width="100"> | [View Folder](./DAY-25/) |
+| 26 | Level Order Tree Traversal| C++  | <img src="./DAY-26/output.png" width="100"> | [View Folder](./DAY-26/) |
