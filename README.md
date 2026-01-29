@@ -34,3 +34,4 @@ Welcome to my 30-day coding challenge! This repository tracks my daily progress 
 | 26 | Level Order Tree Traversal| C++  | <img src="./DAY-26/output.png" width="100"> | [View Folder](./DAY-26/) |
 | 27 | Average Sleep Time(sliding window)| C++  | <img src="./DAY-27/output.png" width="100"> | [View Folder](./DAY-27/) |
 | 28 | Nice Subarrays| C++  | <img src="./DAY-28/output.png" width="100"> | [View Folder](./DAY-28/) |
+| 29 | Binary Tree Max path sum| C++  | <img src="./DAY-29/output.png" width="100"> | [View Folder](./DAY-29/) |
